@@ -128,11 +128,11 @@ export default class CaDetailPageComp extends React.Component{
 										<span className="label">Send a message</span>
 										<textarea placeholder="Send a message to introduce yourself to this advisor. Include details about yourself and the services you’re looking for." class="input-area"></textarea>
 										<span className="label">Your name</span>
-										<input name="name" type="text" value=""/>
+										<input type="text" name="name"/>
 										<span className="label">Your email</span>
-										<input name="email" type="text" value=""/>
+										<input name="email" type="text"/>
 										<span className="label">Your phone number</span>
-										<input name="phone" maxlength="26" type="text" value=""/>
+										<input name="phone" maxlength="26" type="text"/>
 										<a href=" " className="submit-button m-t-20 m-b-10">send message</a>
 									</div>
 								</div>
