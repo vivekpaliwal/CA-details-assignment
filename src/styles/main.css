@@ -406,12 +406,6 @@ th {
   padding: 0;
 }
 
-body {
-  -webkit-tap-highlight-color: transparent;
-  background-image: url("/images/bg.png");
-  margin: 0;
-}
-
 h1.reset, h2.reset, h3.reset, h4.reset, h5.reset, h6.reset {
   margin: 0;
   padding: 0;

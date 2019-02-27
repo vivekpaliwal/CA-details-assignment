@@ -3,11 +3,6 @@
 		@content;
 	}
 }
-body{
-	-webkit-tap-highlight-color:transparent;
-	background-image: url("/images/bg.png");
-	margin: 0;
-}
 h1, h2, h3, h4, h5, h6 {
 	&.reset{
 		 margin: 0;
