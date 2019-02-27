@@ -1,0 +1,237 @@
+{
+	"data": [{
+		"firm_name": "SHAM B BHATTAD & CO",
+		"ca_name": "CA. Sham B. Bhattad",
+		"location": "Pune",
+		"pincode": "400006",
+		"services": [
+			"Audit",
+			"Accounting",
+			"Taxation"
+		],
+		"industries": [
+			"Electronics",
+			"Energy",
+			"Food, Beverage & Tobacco",
+			"Finance",
+			"Gaming/Animation",
+			"Transportation",
+			"Travel Industry",
+			"Trucking",
+			"Utilities",
+			"Venture Capital"
+		]
+	}, {
+		"firm_name": "JAYAPRAKASH & CO",
+		"ca_name": "CA M.V.Jayaprakash",
+		"location": "Chennai",
+		"pincode": "600108",
+		"services": [
+			"Management Consultancy",
+			"Corporate governance",
+			"NGO Audits",
+			"Trust Audits",
+			"Indirect Taxation"
+		],
+		"industries": [
+			"Commercial & Professional Services",
+			"Cosmetics",
+			"Textitles Industry",
+			"Telecommunications",
+			"Television",
+			"Transportation",
+			"Travel Industry",
+			"Trucking",
+			"Utilities",
+			"Venture Capital"
+		]
+	}, {
+		"firm_name": "M Karuppiah CO.",
+		"ca_name": "CA M Karuppiah",
+		"location": "Chennai",
+		"pincode": "600016",
+		"services": [
+			"Concurrent Audit",
+			"Project Report",
+			"Business Planning",
+			"KPO"
+		],
+		"industries": [
+			"Chemicals",
+			"Computer",
+			"Communications",
+			"Grocery",
+			"Government",
+			"Healthcare"
+		]
+	}, {
+		"firm_name": "J.V.Ramanujan & Co",
+		"ca_name": "J.V.Ramanujan",
+		"location": "Chennai",
+		"pincode": "600028",
+		"services": [
+			"Accounting",
+			"Planing & Analysis",
+			"Bank Audit & Ops",
+			"IT Audit & Skills",
+			"Statutory Audit",
+			"Risk Management",
+			"Direct Taxation",
+			"Advisory",
+			"Statutory Compliance"
+		],
+		"industries": [
+			"Department Stores",
+			"Commercial & Professional Services",
+			"Education",
+			"Real Estate",
+			"Retail",
+			"Security Systems",
+			"IT- ITES BPO KPO",
+			"IT- Software Services",
+			"IT- Software Products"
+		]
+	}, {
+		"firm_name": "Kalyanasundaram & Associates",
+		"ca_name": "K Kalyanasundaram",
+		"location": "Chennai",
+		"pincode": "600004",
+		"services": [
+			"Pay-roll Services",
+			"Statutory Audit",
+			"Internal Audit",
+			"Direct Taxation",
+			"Indirect Taxation",
+			"Start-up Services",
+			"Transaction Advisory",
+			"Risk Advisory"
+		],
+		"industries": [
+			"Facility Management",
+			"Food/Argo Products",
+			"Food & Staples Retailing",
+			"Food, Beverage & Tobacco",
+			"Finance",
+			"Gaming/Animation",
+			"Computer",
+			"Communications",
+			"IT- Hardware Solutions",
+			"IT- ITES BPO KPO",
+			"IT- Software Services",
+			"IT- Software Products"
+		]
+	}, {
+		"firm_name": "V. Venkateshwaran & Co.",
+		"ca_name": "V. Venkateshwaran",
+		"location": "Chennai",
+		"pincode": "600014",
+		"services": [
+			"Pay Roll Preparation",
+			"Auditors",
+			"Company Formation Advisors",
+			"Statutory Audit (Limited Company)",
+			"ESI & PF Consultants",
+			"Tax Consultants",
+			"Company Formation/Registration",
+			"Tax Return Services",
+			"Internal Audit",
+			"Accounts Maintenance in Tally"
+		],
+		"industries": [
+			"Electronics",
+			"Energy",
+			"IT- Hardware Solutions",
+			"IT- ITES BPO KPO",
+			"IT- Software Services",
+			"IT- Software Products",
+			"Transportation",
+			"Travel Industry",
+			"Trucking",
+			"Utilities",
+			"Venture Capital"
+		]
+	}, {
+		"firm_name": "A M B & CO",
+		"ca_name": "ARVIND R KHANDELWAL",
+		"location": "Pune",
+		"pincode": "400009",
+		"services": [
+			"Audit",
+			"Taxation",
+			"Accounts"
+		],
+		"industries": [
+			"Private Equity",
+			"Publications",
+			"Recreation",
+			"Real Estate",
+			"Retail",
+			"Security Systems"
+		]
+	}, {
+		"firm_name": "CA. P.Prasanna",
+		"ca_name": "P.Prasanna",
+		"location": "Bangalore",
+		"pincode": "560061",
+		"services": [
+			"Company Registration",
+			"Income tax Consultants",
+			"Sales Tax Consultants",
+			"Service Tax Consultants",
+			"Central Excise Consultants",
+			"Special Formations ( Trust, EOU, STPI etc.)"
+		],
+		"industries": [
+			"Commercial & Professional Services",
+			"Cosmetics",
+			"Textitles Industry",
+			"Telecommunications",
+			"Television",
+			"Transportation",
+			"Travel Industry",
+			"Trucking",
+			"Utilities",
+			"Venture Capital"
+		]
+	}, {
+		"firm_name": "Vikas Kumar G & Associates",
+		"ca_name": "Vikas",
+		"location": "Bangalore",
+		"pincode": "560041",
+		"services": [
+			"Accounting",
+			"Project Report",
+			"Statutory Audit",
+			"Internal Audit",
+			"Direct Taxation",
+			"Indirect Taxation",
+			"Statutory Compliance",
+			"Resource on Contract",
+			"Trust Audits"
+		],
+		"industries": [
+			"Soap & Detergent",
+			"Software",
+			"Sports"
+		]
+	}, {
+		"firm_name": "Nirmal & Arpit",
+		"ca_name": "Arpit",
+		"location": "Surat",
+		"pincode": "335009",
+		"services": [
+			"Payroll Proccessing Service",
+			"Audit and Assurance",
+			"Entity Risk Advisory",
+			"International Taxation",
+			"Domestic Taxation",
+			"Financial and Management and Secretarial and Regulatory"
+		],
+		"industries": [
+			"IT- Hardware Solutions",
+			"IT- ITES BPO KPO",
+			"IT- Software Services",
+			"IT- Software Products"
+		]
+	}]
+}
