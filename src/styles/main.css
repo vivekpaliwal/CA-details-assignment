@@ -1241,6 +1241,7 @@ body {
   box-sizing: border-box;
   border-radius: 3px;
   margin: 10px 0px;
+  outline: none;
 }
 .ca-detail-page .detail-container .form-section textarea {
   height: 150px;
@@ -1341,6 +1342,19 @@ footer .nav-links a {
 .no-filter {
   font-size: 35px;
   margin-top: 100px;
+}
+
+.css-vj8t7z:hover {
+  border-color: red;
+}
+
+.css-2o5izw {
+  border-color: #BABEC5 !important;
+  box-shadow: none !important;
+}
+.css-2o5izw:hover {
+  border-color: #BABEC5 !important;
+  box-shadow: none;
 }
 
 /*# sourceMappingURL=main.css.map */
